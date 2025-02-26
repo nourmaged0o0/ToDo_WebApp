@@ -1,0 +1,38 @@
+.secc{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.forms{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around !important;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    margin-bottom: -15px;
+    
+}
+.buttons button{
+    color: white;
+    background-color:#2972ee;
+    height:36px;
+    width: 100px;
+    border-radius: 9px;
+}
+.input h1{
+   color: #ebf7ff; 
+   font-weight: 700;
+}
+.input input{
+    height: 75%;
+    border-radius: 6px;
+    background-color: #dfe0df4b;
+}

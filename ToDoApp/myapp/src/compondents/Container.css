@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Pathway+Gothic+One&family=Roboto:wght@300;400;700;900&family=Rubik:wght@400;500;700&display=swap");
+
+
+.cont{
+    background-color: #171b2f;
+    height: 500px;
+    width: 800px;
+    border-radius: 15px;
+
+}
+.firstc{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center !important;
+}
+.firstc h1{
+    color: white;
+    font-size: xx-large;
+    font-weight: 700;
+    /* font-family: ; */
+}
+.firstc button{
+    color: white;
+    background-color: #2972ee;
+    height: 35px;
+    width: 120px;
+    border-radius: 9px;
+}
+.list{
+    background-color: #373b4fd4;
+    height: 14%;
+    padding: 5px 10px !important;
+    margin: 35px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.date{
+    height: 100%;
+    width: 10%;
+    background-color: #2972ee;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.date h1{
+    color: aliceblue;
+    font-weight: 700;
+    font-size: larger;
+}
+.day{
+    height: 75%;
+    width: 13%;
+    background-color: #2972ee;
+    border-radius: 9px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+}
+.day h1{
+    color: aliceblue;
+    font-weight: 700;
+    font-size: larger;
+}
+/* .title{
+    margin-left: -40px;
+} */
+
+.dateandtit{
+    display: flex;
+    justify-content: start !important;
+    align-items: center;
+    width:100% ;
+    height: 100%;
+    justify-content: space-around;
+}
+.dateandtit .title{
+    margin-left: 30px;
+}
+
+.dateandtit .title h1{
+    font-size:x-large;
+    color: #dfe0df92;
+    font-weight: 700;
+}

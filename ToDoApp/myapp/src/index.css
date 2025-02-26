@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilties;
+:root{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

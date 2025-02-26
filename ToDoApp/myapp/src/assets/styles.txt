@@ -1,0 +1,12 @@
+Font Family
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&family=Pathway+Gothic+One&family=Roboto:wght@300;400;700;900&family=Rubik:wght@400;500;700&display=swap");
+
+
+
+Colors
+#dfe0df
+#2972ee
+#c8e8fc
+#6194ec
+#171b2f
